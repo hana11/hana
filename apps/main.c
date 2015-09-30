@@ -3,11 +3,13 @@
 
 int main()
 {
+	printf("start test branch\n");
 	foo1();
 	foo2();
-	printf("it is changed!!");
+	printf("it is second changed.");
 	printf("Test new branch");
-	printf("Bug123456\n");
+	printf("Bug456\n");
+>>>>>>> bug456
 	pritnf("Second add\n");
 	printf("Update");
 }
