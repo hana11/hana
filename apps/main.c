@@ -9,7 +9,6 @@ int main()
 	printf("it is second changed.");
 	printf("Test new branch");
 	printf("Bug456\n");
->>>>>>> bug456
-	pritnf("Second add\n");
+	printf("uploads to git hub\n");
 	printf("Update");
 }
