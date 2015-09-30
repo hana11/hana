@@ -11,5 +11,5 @@ int main()
 	printf("Test new branch");
 	printf("Bug456\n");
 	printf("uploads to git hub\n");
-	printf("Update");
+	printf("Update at git hub");
 }
