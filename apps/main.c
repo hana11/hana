@@ -3,6 +3,7 @@
 
 int main()
 {
+	printf("githubtest\n");
 	printf("start test branch\n");
 	foo1();
 	foo2();
