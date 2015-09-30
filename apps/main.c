@@ -5,4 +5,5 @@ int main()
 {
 	foo1();
 	foo2();
+	printf("it is changed.");
 }
