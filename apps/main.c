@@ -5,9 +5,9 @@ int main()
 {
 	foo1();
 	foo2();
-	printf("it is changed.");
+	printf("it is changed!!");
 	printf("Test new branch");
-	printf("Bug123\n");
+	printf("Bug123456\n");
 	pritnf("Second add\n");
 	printf("Update");
 }
